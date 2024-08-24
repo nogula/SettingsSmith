@@ -1,0 +1,17 @@
+{
+    "Window": {
+        "Size": [600,800],
+        "Position": [0,0]
+    },
+    "Integrations": {
+        "External Editor": "Visual Studio Code",
+        "Shell": "cmd"
+    },
+    "Theme": "light",
+    "Paths": {
+        "Projects": "projects_path",
+        "Downloads": "downloads_path",
+        "Documents": "documents_path"
+    },
+    "Example": true
+}
